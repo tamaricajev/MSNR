@@ -4,4 +4,4 @@
 ### Autori:
 - [Tamara Jevtimijević, 1045/2023](https://github.com/tamaricajev)
 - [Anđela Đurović, 1024/2023](https://github.com/andjelaa11)
-- [Katarina Milosević, 1019/2023](https://github.com/KatMilosevic)
+- [Katarina Milošević, 1019/2023](https://github.com/KatMilosevic)
