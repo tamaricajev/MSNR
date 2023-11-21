@@ -1,4 +1,4 @@
-# MSNR-
+# Problemi rodne ravnopravnosti u informatici u Srbiji
 **Grupni seminarski rad u okviru kursa Metodologija stručnog i naučnog rada na master studijama [Matematičkog fakulteta, Univerziteta u Beogradu](http://www.matf.bg.ac.rs/).**
 
 ### Autori:
